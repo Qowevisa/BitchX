@@ -1,0 +1,16 @@
+configure
+configure~
+*.o
+*Makefile
+.config.h
+config.log
+config.status
+
+source/BitchX
+source/scr-bx
+source/wserv
+stamp-h
+autom4te.cache/
+doc/BitchX.bat
+include/defs.h
+include/defs.h.in~
