@@ -109,3 +109,8 @@ MULTISERVER
 The "last nick sent to" and "last nick received from" are now tracked
 per-server, so $. $, $B and the "." and "," message targets are all
 per-server.
+
+==========
+09.02.2023
+Mirror of source code
+==========
